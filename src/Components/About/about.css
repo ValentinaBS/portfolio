@@ -2,7 +2,7 @@
     color: var(--white);
 }
 
-#contact:hover path {
+.contact-about-btn:hover path {
     color: var(--main);
 }
 
