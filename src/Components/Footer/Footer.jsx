@@ -5,10 +5,10 @@ export default function Footer() {
 
     return (
         <footer className='text-center pb-4 pt-5'>
-            <a className='fs-2' href='https://www.linkedin.com/in/valentina-belen-sanchez/'>
+            <a target='__blank' className='fs-2' href='https://www.linkedin.com/in/valentina-belen-sanchez/'>
                 <BsLinkedin />
             </a>
-            <a className='fs-2 ms-5' href='https://github.com/ValentinaBS'>
+            <a target='__blank' className='fs-2 ms-5' href='https://github.com/ValentinaBS'>
                 <BsGithub />
             </a>
             <p className='text-white mt-3'>

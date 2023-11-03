@@ -15,7 +15,7 @@ export default function Home() {
                 <p className='my-4'>
                     {t('homeSubtitle')}
                 </p>
-                <a href='https://drive.google.com/file/d/1DP7WRef-ot-3R1eVIgjEIh-e-JcTEEYY/view?usp=sharing' className='btn btn-lg primary-btn me-3'>
+                <a href='https://drive.google.com/file/d/1DP7WRef-ot-3R1eVIgjEIh-e-JcTEEYY/view?usp=sharing' target='__blank' className='btn btn-lg primary-btn me-3'>
                     {t('homePrimaryBtn')}
                 </a>
                 <a href='#projects' className='btn btn-lg secondary-btn'>

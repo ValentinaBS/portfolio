@@ -33,11 +33,11 @@ export default function Projects() {
                             </p>
                         </div>
                         <div className='d-flex justify-content-between'>
-                            <a href='https://purity.up.railway.app/web/index.html' className='online btn primary-btn d-flex align-items-center column-gap-2'>
+                            <a target='__blank' href='https://purity.up.railway.app/web/index.html' className='online btn primary-btn d-flex align-items-center column-gap-2'>
                                 <BiWorld className='fs-5' />
                                 {t('projectsCardBtn')}
                             </a>
-                            <a href='https://github.com/ValentinaBS/e-commerce-mindhub' className='github btn secondary-btn d-flex align-items-center column-gap-2'>
+                            <a target='__blank' href='https://github.com/ValentinaBS/e-commerce-mindhub' className='github btn secondary-btn d-flex align-items-center column-gap-2'>
                                 <BiLogoGithub className='fs-5' />
                                 Github
                             </a>
@@ -92,11 +92,11 @@ export default function Projects() {
                             </p>
                         </div>
                         <div className='d-flex justify-content-between'>
-                            <a href='https://mindhub-bank.up.railway.app/web/index.html' className='online btn primary-btn d-flex align-items-center column-gap-2'>
+                            <a target='__blank' href='https://mindhub-bank.up.railway.app/web/index.html' className='online btn primary-btn d-flex align-items-center column-gap-2'>
                                 <BiWorld className='fs-5' />
                                 {t('projectsCardBtn')}
                             </a>
-                            <a href='https://github.com/ValentinaBS/MindhubBankValentinaSanchez' className='github btn secondary-btn d-flex align-items-center column-gap-2'>
+                            <a target='__blank' href='https://github.com/ValentinaBS/MindhubBankValentinaSanchez' className='github btn secondary-btn d-flex align-items-center column-gap-2'>
                                 <BiLogoGithub className='fs-5' />
                                 Github
                             </a>
@@ -151,11 +151,11 @@ export default function Projects() {
                             </p>
                         </div>
                         <div className='d-flex justify-content-between'>
-                            <a href='https://amazing-events-vue-valentina-sanchez.vercel.app/' className='online btn primary-btn d-flex align-items-center column-gap-2'>
+                            <a target='__blank' href='https://amazing-events-vue-valentina-sanchez.vercel.app/' className='online btn primary-btn d-flex align-items-center column-gap-2'>
                                 <BiWorld className='fs-5' />
                                 {t('projectsCardBtn')}
                             </a>
-                            <a href='https://github.com/ValentinaBS/AmazingEventsVueValentinaSanchez/tree/main' className='github btn secondary-btn d-flex align-items-center column-gap-2'>
+                            <a target='__blank' href='https://github.com/ValentinaBS/AmazingEventsVueValentinaSanchez/tree/main' className='github btn secondary-btn d-flex align-items-center column-gap-2'>
                                 <BiLogoGithub className='fs-5' />
                                 Github
                             </a>
@@ -198,11 +198,11 @@ export default function Projects() {
                             </p>
                         </div>
                         <div className='d-flex justify-content-between'>
-                            <a href='https://kibou-sushi.vercel.app/' className='online btn primary-btn d-flex align-items-center column-gap-2'>
+                            <a target='__blank' href='https://kibou-sushi.vercel.app/' className='online btn primary-btn d-flex align-items-center column-gap-2'>
                                 <BiWorld className='fs-5' />
                                 {t('projectsCardBtn')}
                             </a>
-                            <a href='https://github.com/ValentinaBS/EntregaFinal-KibouSushi-Sanchez' className='github btn secondary-btn d-flex align-items-center column-gap-2'>
+                            <a target='__blank' href='https://github.com/ValentinaBS/EntregaFinal-KibouSushi-Sanchez' className='github btn secondary-btn d-flex align-items-center column-gap-2'>
                                 <BiLogoGithub className='fs-5' />
                                 Github
                             </a>
@@ -248,11 +248,11 @@ export default function Projects() {
                             </p>
                         </div>
                         <div className='d-flex justify-content-between'>
-                            <a href='https://pokedex-ashy-theta.vercel.app/' className='online btn primary-btn d-flex align-items-center column-gap-2'>
+                            <a target='__blank' href='https://pokedex-ashy-theta.vercel.app/' className='online btn primary-btn d-flex align-items-center column-gap-2'>
                                 <BiWorld className='fs-5' />
                                 {t('projectsCardBtn')}
                             </a>
-                            <a href='https://github.com/ValentinaBS/pokedex' className='github btn secondary-btn d-flex align-items-center column-gap-2'>
+                            <a target='__blank' href='https://github.com/ValentinaBS/pokedex' className='github btn secondary-btn d-flex align-items-center column-gap-2'>
                                 <BiLogoGithub className='fs-5' />
                                 Github
                             </a>
@@ -294,11 +294,11 @@ export default function Projects() {
                             </p>
                         </div>
                         <div className='d-flex justify-content-between'>
-                            <a href='https://froggy-calculator.vercel.app/' className='online btn primary-btn d-flex align-items-center column-gap-2'>
+                            <a target='__blank' href='https://froggy-calculator.vercel.app/' className='online btn primary-btn d-flex align-items-center column-gap-2'>
                                 <BiWorld className='fs-5' />
                                 {t('projectsCardBtn')}
                             </a>
-                            <a href='https://github.com/ValentinaBS/froggy-calculator' className='github btn secondary-btn d-flex align-items-center column-gap-2'>
+                            <a target='__blank' href='https://github.com/ValentinaBS/froggy-calculator' className='github btn secondary-btn d-flex align-items-center column-gap-2'>
                                 <BiLogoGithub className='fs-5' />
                                 Github
                             </a>
@@ -340,11 +340,11 @@ export default function Projects() {
                             </p>
                         </div>
                         <div className='d-flex justify-content-between'>
-                            <a href='https://product-preview-card-component-five-inky.vercel.app/' className='online btn primary-btn d-flex align-items-center column-gap-2'>
+                            <a target='__blank' href='https://product-preview-card-component-five-inky.vercel.app/' className='online btn primary-btn d-flex align-items-center column-gap-2'>
                                 <BiWorld className='fs-5' />
                                 {t('projectsCardBtn')}
                             </a>
-                            <a href='https://github.com/ValentinaBS/product-preview-card-component' className='github btn secondary-btn d-flex align-items-center column-gap-2'>
+                            <a target='__blank' href='https://github.com/ValentinaBS/product-preview-card-component' className='github btn secondary-btn d-flex align-items-center column-gap-2'>
                                 <BiLogoGithub className='fs-5' />
                                 Github
                             </a>

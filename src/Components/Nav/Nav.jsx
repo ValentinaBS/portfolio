@@ -16,7 +16,7 @@ export default function Nav() {
     return (
         <nav className="animate__animated animate__fadeInDown navbar sticky-top navbar-expand-lg mx-auto mt-lg-4 fs-5 fw-bold">
             <div className="container-fluid">
-                <a className="navbar-brand ms-2 ms-md-3" href="https://www.linkedin.com/in/valentina-belen-sanchez/">Valentina</a>
+                <a className="navbar-brand ms-2 ms-md-3" target='__blank' href="https://www.linkedin.com/in/valentina-belen-sanchez/">Valentina</a>
                 <button className="navbar-toggler border-0" type="button" data-bs-toggle="collapse" data-bs-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
                     <LuMenu />
                 </button>
